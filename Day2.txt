@@ -1,0 +1,41 @@
+PART 1: Prepare Ubuntu Server (inside VM)
+1. Check IP address of the VM
+ip a
+Look for:
+inet 192.168.xxx.xxx
+
+2. Install OpenSSH Server
+sudo apt update
+sudo apt install openssh-server -y
+sudo systemctl status ssh
+
+3. Allow SSH through firewall
+sudo ufw allow ssh
+sudo ufw reload
+sudo ufw status
+
+PART 2: Test SSH from Windows
+ssh username@VM_IP
+
+PART 3: Install VS Code (Windows)
+Install VS Code
+Install Remote - SSH extension
+
+PART 4: Connect Ubuntu Server to VS Code via SSH
+Remote-SSH: Connect to Host
+ssh username@VM_IP
+
+PART 5: Verify VM
+hostname
+
+PART 6: Open Folder
+/home/username
+
+HOW TO INSTALL DOCKER:
+docker --version
+sudo usermod -aG docker $USER
+newgrp docker
+docker run hello-world
+
+Clone repo:
+git clone https://github.com/jagadeeshkanna97/docker_sample.git
