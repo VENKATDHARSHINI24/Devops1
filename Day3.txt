@@ -1,0 +1,15 @@
+Install & Run NGINX (Docker)
+docker pull nginx
+docker run -d -p 8080:80 --name nginx-web nginx
+docker ps
+docker stop nginx-web
+docker rm nginx-web
+
+Install Jenkins (Ubuntu)
+sudo apt update && sudo apt install -y openjdk-17-jdk
+curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee /usr/share/keyrings/jenkins-keyring.asc > /dev/null && echo deb [signed-by=/usr/share/keyrings/jenkins-keyring.asc] https://pkg.jenkins.io/debian-stable binary/ | sudo tee /etc/apt/sources.list.d/jenkins.list > /dev/null && sudo apt update && sudo apt install -y jenkins
+sudo systemctl start jenkins
+sudo systemctl enable jenkins
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+Open in Browser
+http://localhost:8080
