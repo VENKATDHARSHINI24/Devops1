@@ -1,0 +1,9 @@
+Hello DevOps Day 5 👋
+
+Basic Commands:
+pwd
+ls
+cd ..
+docker ps
+docker images
+
