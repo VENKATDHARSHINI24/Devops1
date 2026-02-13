@@ -21,7 +21,7 @@
 - `ssh user@VM_IP` – connect from Windows  
 - `hostname` – verify VM  
 
-## Day 3 – Git + Docker + NGINX
+**## Day 3 – Git + Docker + NGINX + Jenkins**
 
 - `git clone <repo-url>` – clone repo  
 - `git checkout dev` – switch branch  
