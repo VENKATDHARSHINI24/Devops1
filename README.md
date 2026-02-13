@@ -61,6 +61,8 @@
 
 <img width="944" height="509" alt="image" src="https://github.com/user-attachments/assets/7f5baf51-83c5-4b6f-90e7-fde3c1bb0e41" />
 
+** Day4**
+**trigger the jenkins:**
 <img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/284c3a3a-380d-4e64-9e6b-c364ef39fcc6" />
 
 <img width="975" height="493" alt="image" src="https://github.com/user-attachments/assets/5ad075a5-9038-4802-9861-98727b732be1" />
@@ -68,4 +70,14 @@
 <img width="957" height="482" alt="image" src="https://github.com/user-attachments/assets/7e119592-1d4b-4dd7-8559-22cab1401f42" />
 
 <img width="975" height="496" alt="image" src="https://github.com/user-attachments/assets/cf75eaf3-2abe-4d62-8fd4-363cae733b52" />
-** Day4**
+**pipelines**
+<img width="1913" height="971" alt="Screenshot 2026-02-13 230730" src="https://github.com/user-attachments/assets/cdf4d510-a266-4448-89ae-fc5266d5f7ad" />
+
+<img width="1907" height="966" alt="Screenshot 2026-02-13 230717" src="https://github.com/user-attachments/assets/91bf7027-1dd6-400d-805f-d92b13e792f4" />
+
+<img width="1919" height="1027" alt="Screenshot 2026-02-13 114157" src="https://github.com/user-attachments/assets/6d1fa200-8d46-413c-8cb7-6d4af4e20cb5" />
+
+
+
+
+
