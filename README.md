@@ -1,6 +1,7 @@
 # DevOps Practice (Day 1 – Day 3)
 
 ## Day 1 – Linux Basics
+
 - `pwd` – show current path  
 - `ls` – list files  
 - `cd folder` – change directory  
@@ -11,12 +12,14 @@
 - `ping google.com` – test network  
 
 ## Day 2 – SSH + VS Code
+
 - `sudo apt update && sudo apt install openssh-server -y` – install SSH  
 - `sudo systemctl status ssh` – check SSH  
 - `ssh user@VM_IP` – connect from Windows  
 - `hostname` – verify VM  
 
 ## Day 3 – Git + Docker + NGINX
+
 - `git clone <repo-url>` – clone repo  
 - `git checkout dev` – switch branch  
 - `sudo apt install docker.io -y` – install Docker  
@@ -26,22 +29,26 @@
 - `git add . && git commit -m "Day3" && git push origin dev` – push code  
 
 ## Tools Used
+
 **DAY1**
-<img width="927" height="553" alt="image" src="https://github.com/user-attachments/assets/5157f022-2ab6-4d72-b368-1259d70efa98" />
+
+<img width="852" height="699" alt="image" src="https://github.com/user-attachments/assets/5157f022-2ab6-4d72-b368-1259d70efa98" />
 
 <img width="852" height="699" alt="image" src="https://github.com/user-attachments/assets/dbea4247-dfcb-4ef6-84eb-54b263ee4066" />
 
 **DAY2:**
-<img width="1006" height="510" alt="image" src="https://github.com/user-attachments/assets/13481a20-3ba2-446f-b9ef-d0b71245090a" />
+
+<img width="913" height="620" alt="image" src="https://github.com/user-attachments/assets/13481a20-3ba2-446f-b9ef-d0b71245090a" />
 
 <img width="913" height="620" alt="image" src="https://github.com/user-attachments/assets/ac39f225-fc8e-4833-9d1a-9b9d82c0e44b" />
 
-<img width="1010" height="328" alt="image" src="https://github.com/user-attachments/assets/572ea158-b9cf-4595-adda-fac123648985" />
+<img width="913" height="620" alt="image" src="https://github.com/user-attachments/assets/572ea158-b9cf-4595-adda-fac123648985" />
 
-<img width="1010" height="328" alt="image" src="https://github.com/user-attachments/assets/5967eb14-09ec-4e07-81d3-e6711b4910a4" />
+<img width="913" height="620" alt="image" src="https://github.com/user-attachments/assets/5967eb14-09ec-4e07-81d3-e6711b4910a4" />
 
 
 **DAY3:**
+
 <img width="914" height="754" alt="image" src="https://github.com/user-attachments/assets/6c57c506-aee4-49a5-9e1d-f22c0e8f89e6" />
 
 <img width="938" height="507" alt="image" src="https://github.com/user-attachments/assets/37b237fc-08ca-4aa7-b375-e4117ce525fe" />
