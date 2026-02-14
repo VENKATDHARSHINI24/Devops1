@@ -77,6 +77,40 @@
 
 <img width="1919" height="1027" alt="Screenshot 2026-02-13 114157" src="https://github.com/user-attachments/assets/6d1fa200-8d46-413c-8cb7-6d4af4e20cb5" />
 
+**DAY 5**
+Instance creation :
+
+<img width="1913" height="1026" alt="Screenshot 2026-02-13 213346" src="https://github.com/user-attachments/assets/09f08d65-0449-4094-a005-9fe45c1a7379" />
+
+**Apachi installation:**
+
+<img width="1916" height="1016" alt="Screenshot 2026-02-14 094051" src="https://github.com/user-attachments/assets/7f50b9eb-9d6e-42c7-aa41-5722c20995b9" />
+
+<img width="1916" height="1023" alt="Screenshot 2026-02-14 094102" src="https://github.com/user-attachments/assets/a9b60cfd-b784-418b-87bf-14c8c39413b4" />
+
+<img width="1911" height="1034" alt="Screenshot 2026-02-14 094112" src="https://github.com/user-attachments/assets/bbceb3b4-b250-4d44-b141-2b8cbcb4d7fa" />
+
+<img width="1919" height="981" alt="Screenshot 2026-02-14 094333" src="https://github.com/user-attachments/assets/43250d70-163c-4cf2-9b4a-032ddbdc7682" />
+
+<img width="1917" height="814" alt="Screenshot 2026-02-14 100423" src="https://github.com/user-attachments/assets/0bdb6d66-ebf8-43f9-810c-32e404e12b81" />
+**key value pairs:**
+<img width="1906" height="1068" alt="Screenshot 2026-02-14 114429" src="https://github.com/user-attachments/assets/0086697b-c987-4199-838f-124f53386934" />
+**terraform**
+<img width="1906" height="1068" alt="Screenshot 2026-02-14 115253" src="https://github.com/user-attachments/assets/56b599ab-f9ce-45e4-a399-2dcbd640c0a8" />
+**terraform destroy**
+
+<img width="1918" height="1036" alt="Screenshot 2026-02-14 115503" src="https://github.com/user-attachments/assets/e837f51b-8fbf-4cab-8601-6aa97359fe4e" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-02-14 115734" src="https://github.com/user-attachments/assets/da310161-7d89-4f42-9edd-9f2b75ba1678" />
+
+
+
+
+
+
+
+
+
 
 
 
