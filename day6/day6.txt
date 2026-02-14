@@ -40,4 +40,4 @@ sudo systemctl status apache2
 
 Open in browser:
 
-http://54.82.36.187
+http://100.31.106.130/
