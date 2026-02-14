@@ -1,3 +1,4 @@
+
 # DevOps Practice (Day 1 – Day 3)
 
 ## Day 1 – Linux Basics
@@ -100,18 +101,5 @@ Instance creation :
 **terraform destroy**
 
 <img width="1918" height="1036" alt="Screenshot 2026-02-14 115503" src="https://github.com/user-attachments/assets/e837f51b-8fbf-4cab-8601-6aa97359fe4e" />
-
-<img width="1919" height="1079" alt="Screenshot 2026-02-14 115734" src="https://github.com/user-attachments/assets/da310161-7d89-4f42-9edd-9f2b75ba1678" />
-
-
-
-
-
-
-
-
-
-
-
 
 
