@@ -101,5 +101,25 @@ Instance creation :
 **terraform destroy**
 
 <img width="1918" height="1036" alt="Screenshot 2026-02-14 115503" src="https://github.com/user-attachments/assets/e837f51b-8fbf-4cab-8601-6aa97359fe4e" />
+** DAy6**
+**Appachi download**
+<img width="1919" height="1079" alt="Screenshot 2026-02-14 142857" src="https://github.com/user-attachments/assets/ba071a71-d084-4960-8692-64cb82f54a7a" />
+
+<img width="1919" height="1017" alt="Screenshot 2026-02-14 143909" src="https://github.com/user-attachments/assets/140d590d-36a7-4542-b423-12fa5e0e5836" />
+
+<img width="1914" height="1079" alt="Screenshot 2026-02-14 143948" src="https://github.com/user-attachments/assets/5066acbb-66da-4401-928a-f956b8ae12f0" />
+
+<img width="1919" height="1079" alt="Screenshot 2026-02-14 153240" src="https://github.com/user-attachments/assets/e07388de-837e-4349-a584-4ca4f212b443" />
+
+<img width="1917" height="963" alt="Screenshot 2026-02-15 114723" src="https://github.com/user-attachments/assets/8038bf29-2d6a-4865-9ff0-423eb7598eab" />
+
+
+<img width="1915" height="958" alt="Screenshot 2026-02-14 154517" src="https://github.com/user-attachments/assets/b419f038-8fa5-4f1e-ab40-db9e135912f2" />
+
+
+
+
+
+
 
 
